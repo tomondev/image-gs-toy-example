@@ -9,6 +9,8 @@ uv run main.py
 
 ## Training progress
 
+The first image is the target image.
+
 ![progression](progression.png)
 
 ## Animation

@@ -7,12 +7,14 @@ uv add "jax[cuda12]" numpy pillow optax matplotlib imageio
 uv run main.py
 ```
 
+See the companion post [here](https://tomondev.github.io/posts/image-2dgs/).
+
 ## Training progress
 
 The first image is the target image.
 
-![progression](progression.png)
+![](progression.png)
 
 ## Animation
 
-![animation](progression.gif)
+![](progression.gif)
